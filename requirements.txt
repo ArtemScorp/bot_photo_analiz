@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+ultralytics
+opencv-python
+pandas
+Pillow
+scikit-image
+numpy
+python-dotenv

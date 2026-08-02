@@ -1,1 +1,6 @@
+.env
+*.pt
+__pycache__/
+*.pyc
+
 model
