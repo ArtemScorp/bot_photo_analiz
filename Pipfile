@@ -10,6 +10,7 @@ imageai = "*"
 torch = "*"
 torchvision = "*"
 scikit-image = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
